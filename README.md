@@ -1,10 +1,7 @@
 # HI IM SAM
 Sam Branham
-Former Senior Design Engineer at
-- Apple Technologies
-- Facebook
-- Valve Corporation
-- Various Personal Startups (ask me about these!)
+## About Me
+I'm just doing whatever I want to do and trying my best at it.
 
 ## Previous Projects
 sorry these links aren't working, I'll get back to them
