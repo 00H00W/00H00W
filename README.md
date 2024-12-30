@@ -1,5 +1,7 @@
 # HI IM SAM
 Sam Branham
+I don't know everything but I can learn anything
+
 ## About Me
 I'm just doing whatever I want to do and trying my best at it.
 
